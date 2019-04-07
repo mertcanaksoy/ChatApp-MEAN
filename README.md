@@ -1,5 +1,10 @@
 ## ChatApp-MEAN
-Projeyi ayağa kaldırabilmeniz için öncelikle **NodeJS** ve **MongoDB** platformlarının bilgisayarınızda kurulu olması gerekmektedir.
+
+![Resim 1](https://github.com/mertcanaksoy/ChatApp-MEAN/blob/master/preview/Login%20Page.jpg)<br/>
+![Resim 2](https://github.com/mertcanaksoy/ChatApp-MEAN/blob/master/preview/Message%20Page.jpg)
+
+### KURULUM
+#### Projeyi ayağa kaldırabilmeniz için öncelikle **NodeJS** ve **MongoDB** platformlarının bilgisayarınızda kurulu olması gerekmektedir. Eğer bunlar yüklü değilse kurulumlarını yapınız.
 <br/>Terminalden projenin kök dizinine gidin (`cd "proje klasörünün adı"`) 
 <br/>.env.example dosyasını baz alarak .env dosyasını oluşturun 
 <br/>`npm install` komutunu yazın ve modüllerin yüklenmesini bekleyin
